@@ -9,3 +9,9 @@ if the pH value is less than 3.4 --> it is considered to be moderate wine becaus
 if the pH is greater than 3.6 --> it is considered to be bad wine 
 we label encode the above attribute and obtain the class label 
 for proving that this can model is accurate I have also done lazypredict for confirmation.
+
+
+# naive bayesian classification
+It is one of the most used ML classification used for probabilistic classification  of the data
+One of its demerits are , for naive we shall assume all the features of the data are independent but it is not possible in the case of real world data
+we use the accuracy and confusion matrix to present the performance of the bayesian model 
